@@ -2,6 +2,7 @@ print("Hello World!")
 
 #조건문
 temp = 10
+
 if temp>20 :
     print("덥다")
 else :
